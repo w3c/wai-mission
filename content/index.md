@@ -36,10 +36,10 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" class="" %}
 {:/}
 
-Accessibility: Essential for some, useful for all.
+**Accessibility: Essential for some, useful for all.**
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -87,41 +87,35 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 To contribute to realizing the vision, W3C addresses the following areas:
 
 1. **Specifications, standards, and technologies support accessibility:**
-
-- Ensure that W3C specifications support accessibility. Provide guidance on accessibility considerations from the inception of new work, throughout development, and before final approval.
-- Provide guidance on accessibility considerations in relevant specifications and technologies outside of W3C, e.g., HTML5.
-- Develop Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/))
+   - Ensure that W3C specifications support accessibility. Provide guidance on accessibility considerations from the inception of new work, throughout development, and before final approval.
+   - Provide guidance on accessibility considerations in relevant specifications and technologies outside of W3C, e.g., HTML5.
+   - Develop Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/))
 
 2. **International accessibility standards:**
-
-- Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally.
-- ? web, digital, non-web ICT _(see for discussion:_ [_Scope of web, digital, non-web ICT_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.r1tq3h1yst32) _for discussion)_
-- ? content, user agents, authoring tools, other? _(see_ [_User agents and authoring tools_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.1nvz99i27u4h) _for discussion)_
-- ARIA, API mappings, EPUB accessibility
-- ? priority of WAI-Adapt, spoken pronunciation, other
-- Provide guidance beyond standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
+   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally.
+   - ? web, digital, non-web ICT _(see for discussion:_ [_Scope of web, digital, non-web ICT_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.r1tq3h1yst32) _for discussion)_
+   - ? content, user agents, authoring tools, other? _(see_ [_User agents and authoring tools_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.1nvz99i27u4h) _for discussion)_
+   - ARIA, API mappings, EPUB accessibility
+   - ? priority of WAI-Adapt, spoken pronunciation, other
+   - Provide guidance beyond standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
 
 3. **Support understanding, adopting, and implementing accessibility:**
-
-- Encourage international standards harmonization (e.g., adoption of WCAG as is).  _(see_ [_Standards harmonization_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.ovk0n0kijjq5) _for discussion)_
-- Facilitate and promote translations of W3C accessibility standards and supporting resources.
-- Provide documentation on understanding and implementing accessibility standards (e.g., WCAG Techniques, ARIA Authoring Practices Guide, Tutorials).
-- Provide applied education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/)
-- Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course.
-- Support improved accessibility evaluation processes and tools (e.g., with ACT Rules).
+   - Encourage international standards harmonization (e.g., adoption of WCAG as is).  _(see_ [_Standards harmonization_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.ovk0n0kijjq5) _for discussion)_
+   - Facilitate and promote translations of W3C accessibility standards and supporting resources.
+   - Provide documentation on understanding and implementing accessibility standards (e.g., WCAG Techniques, ARIA Authoring Practices Guide, Tutorials).
+   - Provide applied education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/)
+   - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course.
+   - Support improved accessibility evaluation processes and tools (e.g., with ACT Rules).
 
 4. **Accessibility research**:
-
-- Encourage effective international research to provide a solid basis for accessibility standards.
-- Document meta-analysis of multiple studies. 
-- Conduct horizon scanning.
+   - Encourage effective international research to provide a solid basis for accessibility standards.
+   - Document meta-analysis of multiple studies. 
+   - Conduct horizon scanning.
 
 5. **Support W3C mission:**
-
-- Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
-- Support W3C Member participation.
-- Ensure accessibility of W3C website, tools, presentations, etc.
-
+   - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
+   - Support W3C Member participation.
+   - Ensure accessibility of W3C website, tools, presentations, etc.
 
 ## 2023 WAI Priorities
 
@@ -145,7 +139,6 @@ _2023 priorities are based on existing key activities, work commitments, and res
 4. WAI website re-architecture project to provide more stability and easier maintenance. Expected completion is 2024 Q2.
 
 5. Update W3C's [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. Expected completion is 2024 Q2.
-
 
 ## Priorities and Strategic Plan for 2024 and Beyond
 
