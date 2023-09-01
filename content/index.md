@@ -35,6 +35,14 @@ footer: >
 
 ---
 
+<div style="float:right; margin-left:1em;">
+{% include image.html src="ear.svg" alt="" class="mini" %}<br><br> 
+{% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="hand.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="speech.svg" alt="" class="mini" %}
+</div>
+
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
@@ -66,6 +74,16 @@ The purposes for developing this include:
 * Define and document W3C's commitment to accessibility.
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
 * Direct limited staff resources to agreed-upon priorities.
+
+<div style="float:right; margin-left:1em; clear:both;">
+{% include image.html src="two-smiling.png" alt="" class="mini" %}<br>
+{% include image.html src="low-vision.png" alt="" class="mini" %}<br>
+{% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br>
+{% include image.html src="sip-puff.png" alt="" class="mini" %}<br>
+{% include image.html src="hearing-aid.png" alt="" class="mini" %}<br>
+{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}<br>
+{% include image.html src="mobile-outside.png" alt="" class="mini" %}
+</div>
 
 ## Accessibility Vision
 
@@ -139,6 +157,7 @@ _2023 priorities are based on existing key activities, work commitments, and res
 4. WAI website re-architecture project to provide more stability and easier maintenance. Expected completion is 2024 Q2.
 
 5. Update W3C's [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. Expected completion is 2024 Q2.
+
 
 ## Priorities and Strategic Plan for 2024 and Beyond
 
