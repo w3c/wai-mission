@@ -39,7 +39,7 @@ footer: >
 {% include box.html type="start" class="" %}
 {:/}
 
-{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" class="normal right" %}
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:77px; clear:both;" />
 
 **Accessibility: Essential for some, useful for all.**
 
@@ -69,14 +69,14 @@ The purposes for developing this include:
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
 * Direct limited staff resources to agreed-upon priorities.
 
-<div style="float:right; margin-left:1em; clear:both;">
-{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" class="mini" %}<br>
-{% include image.html src="low-vision.png" alt="" class="mini" %}<br>
-{% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br>
-{% include image.html src="sip-puff.png" alt="" class="mini" %}<br>
-{% include image.html src="hearing-aid.png" alt="" class="mini" %}<br>
-{% include image.html src="low-vision-pizza.png" alt="" class="mini" %}<br>
-{% include image.html src="mobile-outside.png" alt="" class="mini" %}
+<div style="float:right; margin-left:1em; width:77px; clear:both;">
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br>
+<img src=" src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" /><br>
 </div>
 
 ## Accessibility Vision
@@ -129,12 +129,12 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
-<div style="float:right; margin-left:1em; width:90px">
+<div style="float:left; margin-right:1em; width:77px; clear:both;">
 <img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
-<img src="https://www.w3.org/WAI/content-images/eye.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/brain.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/hand.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/speech.svg" alt="" />
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
 </div>
 
 ## 2023 WAI Priorities
