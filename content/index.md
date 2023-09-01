@@ -3,17 +3,13 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "W3C Accessibility Mission"
-# title_html: "Main Title:<br>Other Part" # NEW: only needed if you need <br> or other in title. Otherwise, delete.
+title_html: "W3C Accessibility Mission:<br>Vision, Mission, Strategic Planning, Priorities"
 
-lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+doc-note-type: draft
+doc-note-message-md: 2023 Work In Progress
+
+lang: en
 # last_updated: 2020-02-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-
-# translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-mission
@@ -34,8 +30,8 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 00 September 2023. CHANGELOG.</p>
-   <p><strong>Editor:</strong> Shawn Lawton Henry.</p>
+   <p><strong>Date:</strong> Updated 00 September 2023. CHANGELOG</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/staff/#shawn">Shawn Lawton Henry</a>. Contributors: Kevin White, Ruoxi Ran, Daniel Montalvo, Michael Cooper, and many others.</p>
 
 ---
 
@@ -43,7 +39,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium. Nihil velit mollitia voluptatem ullam libero.
+Accessibility: Essential for some, useful for all.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -60,50 +56,97 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
 {% include toc.html type="end" %}
 {:/}
 
-## Heading Level 2
+## Introduction
 
-Here is some **bold text**
+This information extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
 
-Here is some _italic text_
+Background: W3C re-launched as a public-interest non-profit organization in 2023 with accessibility as a clear priority in W3C's mission. [[press release](https://www.w3.org/press-releases/2023/w3c-le-launched/)] Accessibility is woven throughout the fabric of W3C and we will continue with the Web Accessibility Initiative (WAI) focus.
 
-**Link markdown template in markdown**:
-* [[Exact Title of Page on WAI website]](/permalink/to/page/)
-* [WAI website but not exact title](/permalink/to/page/)
-* [link off WAI website](https://example.com)
+The purposes for developing this include:
+* Define and document W3C's commitment to accessibility.
+* Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
+* Direct limited staff resources to agreed-upon priorities.
 
-Description of link markdown:
-* When the linked text is the **exact same as the title of the page** on the WAI website, use **double brackets** and permalink, e.g.:<br>
-    ```[[W3C Accessibility Standards Overview]](/standards-guidelines/)```<br>
-  In GitHub rich text, it will have an extra bracket. You can ignore that.
-* When linked text is not the title of the page and goes to WAI website, use single brackets and permalink, e.g.:<br>
-    ```[about our standards](/standards-guidelines/)```
-* When it links off the WAI website, use single brackets and full URI, e.g.:<br>
-   ``` [ISO standards](https://example.com) ```
+## Accessibility Vision
 
-### Heading Level 3
+The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the world can participate equally in the digital world. That includes:
+* All **technical standards** and specifications support accessibility.
+* Accessibility standards/guidelines are **harmonized globally**.
+* **Browsers** and other user tools support accessibility.
+* Content **authoring tools** support accessibility.
+* Developers, designers, project managers, and others have solid **basic accessibility knowledge**.
+* Accessibility is **integrated** in education and training, {@@other things that WAI materials support...}, etc.
+* New technologies, new digital products, and new content address accessibility from the very beginning of inception and throughout design and development (“**born accessible**”).
 
-1. This is 
-2. a nice
-3. ordered
-4. list.
+## Accessibility Mission
 
-#### Heading Level 4
+W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities. 
 
-* And this is a
-* bullet list
+## Accessibility Objectives
 
-- You can use asterisks
-- or dashes. Whatever floats
-- your boat :-)
+To contribute to realizing the vision, W3C addresses the following areas:
 
-##### Heading Level 5
+1. **Specifications, standards, and technologies support accessibility:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam
+- Ensure that W3C specifications support accessibility. Provide guidance on accessibility considerations from the inception of new work, throughout development, and before final approval.
+- Provide guidance on accessibility considerations in relevant specifications and technologies outside of W3C, e.g., HTML5.
+- Develop Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/))
 
-## Heading Level 2
+2. **International accessibility standards:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam
+- Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally.
+- ? web, digital, non-web ICT _(see for discussion:_ [_Scope of web, digital, non-web ICT_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.r1tq3h1yst32) _for discussion)_
+- ? content, user agents, authoring tools, other? _(see_ [_User agents and authoring tools_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.1nvz99i27u4h) _for discussion)_
+- ARIA, API mappings, EPUB accessibility
+- ? priority of WAI-Adapt, spoken pronunciation, other
+- Provide guidance beyond standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
 
-### Heading Level 3
+3. **Support understanding, adopting, and implementing accessibility:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam
+- Encourage international standards harmonization (e.g., adoption of WCAG as is).  _(see_ [_Standards harmonization_](https://docs.google.com/document/d/1UI9cIjQYonGfKNHvB2rFhpwmW06QEl2r0xBObkHOWZs/edit#heading=h.ovk0n0kijjq5) _for discussion)_
+- Facilitate and promote translations of W3C accessibility standards and supporting resources.
+- Provide documentation on understanding and implementing accessibility standards (e.g., WCAG Techniques, ARIA Authoring Practices Guide, Tutorials).
+- Provide applied education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/)
+- Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course.
+- Support improved accessibility evaluation processes and tools (e.g., with ACT Rules).
+
+4. **Accessibility research**:
+
+- Encourage effective international research to provide a solid basis for accessibility standards.
+- Document meta-analysis of multiple studies. 
+- Conduct horizon scanning.
+
+5. **Support W3C mission:**
+
+- Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
+- Support W3C Member participation.
+- Ensure accessibility of W3C website, tools, presentations, etc.
+
+
+## 2023 WAI Priorities
+
+_2023 priorities are based on existing key activities, work commitments, and resources._
+
+1. Priorities and strategic plan
+
+   - Define vision, mission, strategic plan, communications plan, and priorities for 2024 and beyond. (We will revisit and refine in 2024 as useful.)
+   - Work on getting additional resources to cover needs and priorities. (At least 1 new position is approved and will be posted ASAP, hopefully in September.)
+
+2. Support continued development of key Working Group activities, including WCAG 2.2 support materials, WCAG 3 exploration of conformance models, ARIA, etc. Provide on-going technical advice on WCAG 2.2 and WCAG2ICT updates to EN 301 549.
+
+3. Complete committed projects by February 2024:
+
+   - Update [Policies List](https://www.w3.org/WAI/policies/) and [Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+   - Publish and promote [AI Accessibility research symposium report](https://deploy-preview-193--wai-about-wai.netlify.app/about/projects/wai-coop/symposium2/) and recordings
+   - Publish new version of [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
+   - Update [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) with videos
+   - Translations – facilitate Authorized Translations of WCAG 2.2, manage updating [existing accessibility resource translations](https://www.w3.org/WAI/translations/), facilitate additional translations, improve process for WAI translations
+
+4. WAI website re-architecture project to provide more stability and easier maintenance. Expected completion is 2024 Q2.
+
+5. Update W3C's [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. Expected completion is 2024 Q2.
+
+
+## Priorities and Strategic Plan for 2024 and Beyond
+
+_… To be developed as objectives and priorities are further defined, including based on the discussion points. …_
