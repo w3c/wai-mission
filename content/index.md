@@ -164,4 +164,4 @@ _2023 priorities are based on existing key activities, work commitments, and res
 
 _… To be developed as objectives and priorities are further defined, including based on the discussion points. …_
 
-{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" %}
+{% include image.html src="/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" %}
