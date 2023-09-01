@@ -129,12 +129,12 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
-<div style="float:right; margin-left:1em;">
-{% include image.html src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" class="mini" %}<br><br> 
-{% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="hand.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="speech.svg" alt="" class="mini" %}
+<div style="float:right; margin-left:1em; width:90px">
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
+<img src="https://www.w3.org/WAI/content-images/eye.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/brain.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/hand.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/speech.svg" alt="" />
 </div>
 
 ## 2023 WAI Priorities
@@ -162,6 +162,6 @@ _2023 priorities are based on existing key activities, work commitments, and res
 
 ## Priorities and Strategic Plan for 2024 and Beyond
 
-_… To be developed as objectives and priorities are further defined, including based on the @@ discussion points. …_
+_… To be developed as objectives and priorities are further defined, including based on the discussion points. …_
 
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" />
