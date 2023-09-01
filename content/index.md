@@ -35,17 +35,11 @@ footer: >
 
 ---
 
-<div style="float:right; margin-left:1em;">
-{% include image.html src="ear.svg" alt="" class="mini" %}<br><br> 
-{% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="hand.svg" alt="" class="mini" %}<br><br>
-{% include image.html src="speech.svg" alt="" class="mini" %}
-</div>
-
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
+
+{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" class="normal right" %}
 
 **Accessibility: Essential for some, useful for all.**
 
@@ -76,7 +70,7 @@ The purposes for developing this include:
 * Direct limited staff resources to agreed-upon priorities.
 
 <div style="float:right; margin-left:1em; clear:both;">
-{% include image.html src="two-smiling.png" alt="" class="mini" %}<br>
+{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" class="mini" %}<br>
 {% include image.html src="low-vision.png" alt="" class="mini" %}<br>
 {% include image.html src="older-user-laptop.png" alt="" class="mini" %}<br>
 {% include image.html src="sip-puff.png" alt="" class="mini" %}<br>
@@ -135,6 +129,14 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
+<div style="float:right; margin-left:1em;">
+{% include image.html src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" class="mini" %}<br><br> 
+{% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="hand.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="speech.svg" alt="" class="mini" %}
+</div>
+
 ## 2023 WAI Priorities
 
 _2023 priorities are based on existing key activities, work commitments, and resources._
@@ -158,7 +160,8 @@ _2023 priorities are based on existing key activities, work commitments, and res
 
 5. Update W3C's [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. Expected completion is 2024 Q2.
 
-
 ## Priorities and Strategic Plan for 2024 and Beyond
 
 _… To be developed as objectives and priorities are further defined, including based on the discussion points. …_
+
+{% include image.html src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" %}
