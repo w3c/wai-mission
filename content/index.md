@@ -36,8 +36,6 @@ footer: >
 
 ---
 
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:111px; clear:both;" />
-
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
@@ -58,6 +56,23 @@ footer: >
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:123px; clear:both;" />
+<div style="float:right; margin-left:1em; width:90px; clear:both;">
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" />
+</div>
+<div style="float:right; margin-left:1em; width:77px; clear:both;"><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
+</div>
 
 ## Introduction
 
@@ -69,23 +84,6 @@ The purposes for developing this include:
 * Define and document W3C's commitment to accessibility.
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
 * Direct limited staff resources to agreed-upon priorities.
-
-<div style="float:right; margin-left:1em; width:90px; clear:both;">
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" />
-</div>
-<div style="float:right; margin-left:1em; width:77px; clear:both;">
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
-</div>
 
 ## Accessibility Vision
 
