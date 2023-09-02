@@ -23,7 +23,7 @@ ref: /link/to/page/   # Translators, do not change this
 
 # description: @@ # NEW: add a 150ish-character-description for social media   # translate the description
 # image: /content-images/wai-@@repo/social.png  # NEW: image for social media
-feedbackmail: wai@w3.org
+feedbackmail: public-wai-mission@w3.org
 
 # In the footer below:
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
@@ -56,6 +56,17 @@ footer: >
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+## Introduction
+
+This information extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
+
+Background: W3C re-launched as a public-interest non-profit organization in 2023 with accessibility as a clear priority in W3C's mission. [[press release](https://www.w3.org/press-releases/2023/w3c-le-launched/)] Accessibility is woven throughout the fabric of W3C and we will continue with the Web Accessibility Initiative (WAI) focus.
+
+The purposes for developing this include:
+* Define and document W3C's commitment to accessibility.
+* Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
+* Direct limited staff resources to agreed-upon priorities.
+
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
 <div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
@@ -73,17 +84,6 @@ footer: >
 <img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
 </div>
-
-## Introduction
-
-This information extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
-
-Background: W3C re-launched as a public-interest non-profit organization in 2023 with accessibility as a clear priority in W3C's mission. [[press release](https://www.w3.org/press-releases/2023/w3c-le-launched/)] Accessibility is woven throughout the fabric of W3C and we will continue with the Web Accessibility Initiative (WAI) focus.
-
-The purposes for developing this include:
-* Define and document W3C's commitment to accessibility.
-* Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
-* Direct limited staff resources to agreed-upon priorities.
 
 ## Accessibility Vision
 
@@ -160,6 +160,12 @@ _2023 priorities are based on existing key activities, work commitments, and res
 
 ## Priorities and Strategic Plan for 2024 and Beyond
 
-_… To be developed as objectives and priorities are further defined, including based on the discussion points. …_
+_… To be developed as objectives and priorities are further defined, including based on the **[Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)**. …_
+
+## Seeking input
+
+We welcome input &mdash; especially on the **[Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)**.
+
+**If you're comfortable in GitHub, please comment there. Otherwise, you can send a publicly-archived e-mail to public-wai-mission@w3.org** (or a W3C-staff-only e-mail to wai@w3.org)
 
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" />
