@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ef0441b4-e316-47ea-9961-e769a5c4407e/deploy-status)](https://app.netlify.com/sites/wai-mission/deploys) &nbsp;&nbsp;&nbsp; [Preview of main branch](https://wai-mission.netlify.app/link/to/page/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef0441b4-e316-47ea-9961-e769a5c4407e/deploy-status)](https://app.netlify.com/sites/wai-mission/deploys) &nbsp;&nbsp;&nbsp; [Preview of main branch](https://wai-mission.netlify.app/draft/)
