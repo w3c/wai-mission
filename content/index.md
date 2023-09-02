@@ -4,7 +4,7 @@
 
 title: "W3C Accessibility Mission"
 title_html: "W3C Accessibility Mission:<br>Vision, Mission, Strategic Planning, Priorities"
-title_image: /content-images/wai-media-guide/body.svg
+title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
 doc-note-message-md: 2023 Work In Progress
@@ -56,8 +56,8 @@ footer: >
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:123px; clear:both;" />
-<div style="float:right; margin-left:1em; width:90px; clear:both;">
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
+<div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
