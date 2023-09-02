@@ -4,6 +4,7 @@
 
 title: "W3C Accessibility Mission"
 title_html: "W3C Accessibility Mission:<br>Vision, Mission, Strategic Planning, Priorities"
+title_image: /content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
 doc-note-message-md: 2023 Work In Progress
@@ -34,6 +35,8 @@ footer: >
    <p><strong>Editor:</strong> <a href="https://www.w3.org/staff/#shawn">Shawn Lawton Henry</a>. Contributors: Kevin White, Ruoxi Ran, Daniel Montalvo, Michael Cooper, and many others.</p>
 
 ---
+
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:111px; clear:both;" />
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
@@ -67,15 +70,21 @@ The purposes for developing this include:
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
 * Direct limited staff resources to agreed-upon priorities.
 
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:99px; clear:both;" />
-<div style="float:right; margin-left:1em; width:77px; clear:both;">
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br>
+<div style="float:right; margin-left:1em; width:90px; clear:both;">
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" />
+</div>
+<div style="float:right; margin-left:1em; width:77px; clear:both;">
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
 </div>
 
 ## Accessibility Vision
@@ -127,14 +136,6 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
    - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
-
-<div style="float:right; margin-left:1em; width:77px; clear:both;">
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
-</div>
 
 ## 2023 WAI Priorities
 
