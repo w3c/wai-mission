@@ -103,9 +103,7 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 
 ## Objectives
 
-<aside class="box box-simple"><header class="box-h  box-h-simple"> Editors' Note:</header><div class="box-i">
-<p><em>Links to Discussions are temporary and won't be in the final version of this page.</em>.</p>
-</div></aside>
+_**Editors' Note:** Links to GitHub Discussions are temporary and won't be in the final version of this page._
 
 To contribute to realizing the vision, W3C addresses the following areas:
 
@@ -115,7 +113,7 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Provide guidance through the Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/)).
 
 2. **International accessibility standards:**
-   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally. _see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
+   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally. _-- see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
    - Develop technical specifications to support accessibility, including [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) and accessibility API mappings.
    - _? open question: scope of web, digital -- see [Scope of W3C web, digital accessibility work (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/4)_
    - _? open questions: ? content, user agents, authoring tools, EPUB, mobile apps, other? (see Discussions in GitHub on [mobile apps](https://github.com/w3c/wai-mission/discussions/7),  [browsers](https://github.com/w3c/wai-mission/discussions/5),  [authoring tools](https://github.com/w3c/wai-mission/discussions/6))_
@@ -136,7 +134,6 @@ To contribute to realizing the vision, W3C addresses the following areas:
 
 5. **Support W3C mission:**
    - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
-   - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
 ## 2023 Q3-Q4 WAI Staff Priorities
