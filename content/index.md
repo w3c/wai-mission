@@ -3,7 +3,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "W3C Accessibility Mission"
-title_html: "W3C Accessibility Mission:<br>Vision, Mission, Strategic Planning, Priorities"
+title_html: "W3C Accessibility Mission:<br><small>Vision, Mission, Objectives, Priorities, Strategic Planning</small>"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
@@ -88,14 +88,14 @@ The purposes for developing this include:
 
 ## Accessibility Vision
 
-The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the world can participate equally in the digital world. That includes:
+The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the globe can **participate equally** in the digital world. That includes:
 * All **technical standards** and specifications support accessibility.
 * Accessibility standards/guidelines are **harmonized globally**.
 * **Browsers** and other user tools support accessibility.
 * Content **authoring tools** support accessibility.
 * Developers, designers, project managers, and others have solid **basic accessibility knowledge**.
 * Accessibility is **integrated** in education and training, {@@other things that WAI materials support...}, etc.
-* New technologies, new digital products, and new content address accessibility from the very beginning of inception and throughout design and development (“**born accessible**”).
+* New technologies, new digital products, and new content addresses accessibility from the very beginning of inception and throughout design and development (“**born accessible**”).
 
 ## Mission
 
@@ -103,28 +103,29 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 
 ## Objectives
 
+_**Editors' Note:** Links to GitHub Discussions are temporary and won't be in the final version of this page._
+
 To contribute to realizing the vision, W3C addresses the following areas:
 
 1. **Specifications, standards, and technologies support accessibility:**
    - Ensure that W3C specifications support accessibility. Provide guidance on accessibility considerations from the inception of new work, throughout development, and before final approval.
-   - Provide guidance on accessibility considerations in relevant specifications and technologies outside of W3C, e.g., HTML5.
-   - Develop Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/))
+   - Provide guidance on accessibility considerations in other relevant specifications and technologies. (For example, [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) provided guidance for HTML5.)
+   - Provide guidance through the Framework for Accessible Specification of Technologies [(FAST](https://w3c.github.io/apa/fast/)).
 
 2. **International accessibility standards:**
-   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally.
-   - ? web, digital, non-web ICT _(see [Scope of W3C web, digital accessibility work (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/4))_
-   - ? content, user agents, authoring tools, other? _(see [Discussions (GitHub)](https://github.com/w3c/wai-mission/discussions/4))_
-   - ARIA, API mappings, EPUB accessibility
-   - ? priority of WAI-Adapt, spoken pronunciation, other
-   - Provide guidance beyond standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
+   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally. _-- see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
+   - Develop technical specifications to support accessibility, including [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) and accessibility API mappings.
+   - _? open question: scope of web, digital -- see [Scope of W3C web, digital accessibility work (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/4)_
+   - _? open questions: ? content, user agents, authoring tools, EPUB, mobile apps, other? (see Discussions in GitHub on [mobile apps](https://github.com/w3c/wai-mission/discussions/7),  [browsers](https://github.com/w3c/wai-mission/discussions/5),  [authoring tools](https://github.com/w3c/wai-mission/discussions/6))_
+   - Provide relevant guidance beyond what can be included in these standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
 
 3. **Support understanding, adopting, and implementing accessibility:**
    - Encourage international standards harmonization (e.g., adoption of WCAG as is). _(see [Standards Harmonization (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/11))_
    - Facilitate and promote translations of W3C accessibility standards and supporting resources.
-   - Provide documentation on understanding and implementing accessibility standards (e.g., WCAG Techniques, ARIA Authoring Practices Guide, Tutorials).
-   - Provide applied education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/)
+   - Provide documentation on understanding and implementing accessibility standards (e.g., [WCAG Techniques](https://www.w3.org/WAI/WCAG22/Techniques/about), [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/), [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/), [Tutorials](https://www.w3.org/WAI/tutorials/)).
+   - Provide awareness and education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/).
    - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course.
-   - Support improved accessibility evaluation processes and tools (e.g., with ACT Rules).
+   - Support improved accessibility evaluation processes and tools (e.g., with [ACT Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/about/)).
 
 4. **Accessibility research**:
    - Encourage effective international research to provide a solid basis for accessibility standards.
@@ -133,14 +134,13 @@ To contribute to realizing the vision, W3C addresses the following areas:
 
 5. **Support W3C mission:**
    - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
-   - Support W3C Member participation.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
 ## 2023 Q3-Q4 WAI Staff Priorities
 
 _2023 priorities are based on existing key activities, work commitments, and resources._
 
-1. Support continued development of key Working Group activities, including WCAG 2.2 support materials, WCAG2ICT, WCAG 3 exploration of conformance models, ARIA, etc. Provide on-going technical advice on WCAG 2.2 and WCAG2ICT updates to EN 301 549.
+1. Support continued development of key Working Group activities, including WCAG 2.2 support materials, WCAG2ICT, WCAG 3 exploration of conformance models, ARIA, etc. Provide on-going technical advice on WCAG 2.2 and WCAG2ICT updates for EN 301 549.<br>Current work is introduced in [What We're Working On: Accessibility Activities and Publications](https://www.w3.org/WAI/update/).
 
 2. Define priorities and strategic plan
    - Define vision, mission, strategic plan, communications plan, and specific objectives for 2024-2025 and beyond. (We will revisit and refine in as useful.)
@@ -159,12 +159,22 @@ _2023 priorities are based on existing key activities, work commitments, and res
 
 ## 2024-2025 Priorities, Specific Objectives, and Strategic Plan
 
+{::nomarkdown}
+{% include box.html type="start" title="Placeholder:" class="simple" %}
+{:/}
+
 _… To be developed after general objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
 
-## Your input
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-We welcome input &mdash; especially on the **[Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)**.
+## Your Input
 
-**If you're comfortable in GitHub, please comment there. Otherwise, you can send a publicly-archived e-mail to public-wai-mission@w3.org** (or a W3C-staff-only e-mail to wai@w3.org)
+We welcome input &mdash; especially on the [Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions).
+
+**[Please read this brief intro to these discussions](https://github.com/w3c/wai-mission/discussions/2)**
+
+If you're comfortable in GitHub, please comment there. Otherwise, you can send a publicly-archived e-mail to **public-wai-mission@w3.org** (or a W3C-staff-only e-mail to wai@w3.org)
 
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" />
