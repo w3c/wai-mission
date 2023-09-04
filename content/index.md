@@ -94,7 +94,7 @@ The W3C vision is that the Web and related technologies are accessible so that p
 * **Browsers** and other user tools support accessibility.
 * Content **authoring tools** support accessibility.
 * Developers, designers, project managers, and others have solid **basic accessibility knowledge**.
-* Accessibility is **integrated** in education and training, policies and procurement, employee recruiting and review, and [other areas in organizations](https://w3c.github.io/maturity-model/).
+* Accessibility is **integrated** in education and training, and throughout organizations (for example, in policies, procurement, employee recruiting and review).
 * New technologies, new digital products, and new content addresses accessibility from the very beginning of inception and throughout design and development (“**born accessible**”).
 
 ## Mission
