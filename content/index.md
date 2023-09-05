@@ -1,6 +1,6 @@
 ---
 title: "W3C Accessibility Mission"
-title_html: "W3C Accessibility Mission:<br><small>Vision, Mission, Objectives, Priorities, Strategic Planning</small>"
+title_html: "W3C Accessibility Mission:<br><small>Vision, Mission, Objectives</small>"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
@@ -68,12 +68,12 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 ## Accessibility Vision
 
 The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the globe can **participate equally** in the digital world. That includes:
-•	Accessibility standards/guidelines are harmonized globally.
-•	All technical standards and specifications support accessibility.
-•	Tools that create and deliver digital content support accessibility.
-•	Everyone who creates or manages digital products has good, relevant accessibility knowledge.
-•	Accessibility is integrated in education and training, and throughout organizations (for example, in policies, procurement, employee recruiting and review).
-•	New technologies, digital products, and content addresses accessibility from the very beginning of inception and throughout development (“born accessible”).
+* Accessibility standards/guidelines are harmonized globally.
+* All technical standards and specifications support accessibility.
+* Tools that create and deliver digital content support accessibility.
+* Everyone who creates or manages digital products has good, relevant accessibility knowledge.
+* Accessibility is integrated in education and training, and throughout organizations (for example, in policies, procurement, employee recruiting and review).
+* New technologies, digital products, and content addresses accessibility from the very beginning of inception and throughout development (“born accessible”).
 
 ## Broad Objectives
 
