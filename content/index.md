@@ -1,6 +1,5 @@
 ---
-title: "W3C Accessibility Mission"
-title_html: "W3C Accessibility Mission:<br><small>Vision, Mission, Objectives</small>"
+title: "W3C Accessibility Mission, Vision, Objectives"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
@@ -64,8 +63,25 @@ The purposes for developing this include:
 
 W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities.
 
+img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
+<div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" />
+</div>
+<div style="float:right; margin-left:1em; width:77px; clear:both;"><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
+</div>
 
-## Accessibility Vision
+## Vision
 
 The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the globe can **participate equally** in the digital world. That includes:
 * Accessibility standards/guidelines are harmonized globally.
@@ -110,15 +126,15 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
-## 2024 Priorities, Specific Objectives
+## 2024 Priorities and Specific Objectives
 
 To focus limited resources on top priorities, we will address the following objectives in 2024:
 
 {::nomarkdown}
-{% include box.html type="start" title="Placeholder:" class="simple" %}
+{% include box.html type="start" title="Editor's Note:" class="simple" %}
 {:/}
 
-_… To be developed after general objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
+_… A much smaller, more specific  set of objectives be developed after general objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -131,3 +147,5 @@ We welcome input &mdash; especially on the [Discussion topics in GitHub](https:/
 **[Please read this brief intro to these discussions](https://github.com/w3c/wai-mission/discussions/2)**
 
 If you're comfortable in GitHub, please comment there. Otherwise, you can send a publicly-archived e-mail to **public-wai-mission@w3.org** (or a W3C-staff-only e-mail to wai@w3.org)
+
+<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/banner-with-blur.png" alt="" />
