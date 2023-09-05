@@ -67,16 +67,13 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 
 ## Accessibility Vision
 
-_@@ will cut this down to fewer bullets..._
-
 The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the globe can **participate equally** in the digital world. That includes:
-* All **technical standards** and specifications support accessibility.
-* Accessibility standards/guidelines are **harmonized globally**.
-* **Browsers** and other user tools support accessibility.
-* Content **authoring tools** support accessibility.
-* Developers, designers, project managers, and others have solid **basic accessibility knowledge**.
-* Accessibility is **integrated** in education and training, and throughout organizations (for example, in policies, procurement, employee recruiting and review).
-* New technologies, new digital products, and new content addresses accessibility from the very beginning of inception and throughout design and development (“**born accessible**”).
+•	Accessibility standards/guidelines are harmonized globally.
+•	All technical standards and specifications support accessibility.
+•	Tools that create and deliver digital content support accessibility.
+•	Everyone who creates or manages digital products has good, relevant accessibility knowledge.
+•	Accessibility is integrated in education and training, and throughout organizations (for example, in policies, procurement, employee recruiting and review).
+•	New technologies, digital products, and content addresses accessibility from the very beginning of inception and throughout development (“born accessible”).
 
 ## Broad Objectives
 
@@ -113,7 +110,9 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Support increased involvement of under-represented stakeholders, including people with specific disabilities and people in low resource regions.
    - Ensure accessibility of W3C website, tools, presentations, etc.
 
-## 2024-2025 Priorities, Specific Objectives, and Strategic Plan
+## 2024 Priorities, Specific Objectives
+
+To focus limited resources on top priorities, we will address the following objectives in 2024:
 
 {::nomarkdown}
 {% include box.html type="start" title="Placeholder:" class="simple" %}
