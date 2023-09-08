@@ -123,15 +123,8 @@ To contribute to realizing the vision, W3C addresses the following areas:
 
 To focus limited resources on top priorities, we will address the following objectives in 2024:
 
-{::nomarkdown}
-{% include box.html type="start" title="Editor's Note:" class="simple" %}
-{:/}
+_**Editors' Note:** A much smaller, more specific set of objectives be developed after high-level objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
 
-_… A much smaller, more specific  set of objectives be developed after general objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 ## Your Input
 
