@@ -112,7 +112,7 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Facilitate and promote translations of W3C accessibility standards and supporting resources.
    - Provide documentation on understanding and implementing accessibility standards<!-- (e.g., [WCAG Techniques](https://www.w3.org/WAI/WCAG22/Techniques/about), [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/), [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/), [Tutorials](https://www.w3.org/WAI/tutorials/)) -->.
    - Provide awareness and education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/).
-   - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course.
+<!--   - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. -->
 
 4. **Accessibility research**:
    - Encourage effective international research to provide a solid basis for accessibility standards.
@@ -123,7 +123,7 @@ To contribute to realizing the vision, W3C addresses the following areas:
 
 To focus limited resources on top priorities, we will address the following objectives in 2024:
 
-_**Editors' Note:** A much smaller, more specific set of objectives be developed after high-level objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
+_**Editors' Note:** A much more specific set of objectives be developed after high-level objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
 
 
 ## Your Input
