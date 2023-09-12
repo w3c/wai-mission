@@ -56,8 +56,7 @@ Background: W3C re-launched as a public-interest non-profit organization in 2023
 The purposes for developing this include:
 * Define and document W3C's commitment to accessibility.
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
-* Direct limited staff resources to agreed-upon priorities.
-
+* Direct limited staff (chair, facilitator, participant, contributor) resources to agreed-upon priorities.
 
 ## Mission
 
