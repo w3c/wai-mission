@@ -56,7 +56,7 @@ Background: W3C re-launched as a public-interest non-profit organization in 2023
 The purposes for developing this include:
 * Define and document W3C's commitment to accessibility.
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
-* Direct staff (chair, facilitator, participant, contributor) resources to agreed-upon priorities.
+* Direct limited staff (chair, facilitator, participant, contributor) resources to agreed-upon priorities.
 
 ## Mission
 
@@ -87,7 +87,7 @@ The W3C vision is that the Web and related technologies are accessible so that p
 * All technical standards and specifications support accessibility.
 * Tools that create and deliver digital content support accessibility.
 * Everyone who creates or manages digital products has relevant accessibility knowledge.
-* New technologies, digital products, and content addresses accessibility from the start.
+* New technologies, digital products, and content addresses accessibility from inception (“born accessible”).
 
 ## High-Level Objectives
 
@@ -95,23 +95,23 @@ _**Editors' Note:** Links to GitHub Discussions are temporary and won't be in th
 
 To contribute to realizing the vision, W3C addresses the following areas:
 
-1. **International accessibility standards:**
-   - Facilitate international multi-stakeholder standards development. _-- see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
+1. **Specifications, standards, and technologies support accessibility:**
+   - Ensure that W3C specifications support accessibility.
+   - Provide guidance on accessibility in other specifications and technologies.
+
+2. **International accessibility standards:**
+   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally. _-- see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
    - Develop technical specifications to support accessibility, such as [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) and accessibility API mappings.
    - Develop accessibility guidelines/standards for relevant tools and content.
       - _? open question: scope of web, digital -- see [Scope of W3C web, digital accessibility work (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/4),  [mobile apps](https://github.com/w3c/wai-mission/discussions/7)_
       - _? open questions: mobile apps, user agents, authoring tools, EPUB, other? (see Discussions in GitHub on [mobile apps](https://github.com/w3c/wai-mission/discussions/7),  [browsers](https://github.com/w3c/wai-mission/discussions/5),  [authoring tools](https://github.com/w3c/wai-mission/discussions/6))_
-   - Provide guidance beyond what can be included in these standards, such as [Cognitive Accessibility Guidance](https://www.w3.org/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance).
+   - Provide guidance beyond what can be included in these standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
 
-2. **Support understanding, adopting, and implementing accessibility:**
+3. **Support understanding, adopting, and implementing accessibility:**
    - Facilitate and promote translations of W3C accessibility standards and supporting resources.
    - Provide documentation on understanding and implementing accessibility standards<!-- (e.g., [WCAG Techniques](https://www.w3.org/WAI/WCAG22/Techniques/about), [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/), [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/), [Tutorials](https://www.w3.org/WAI/tutorials/)) -->.
    - Provide awareness and education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/).
 <!--   - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. -->
-
-3. **Specifications, standards, and technologies support accessibility:**
-   - Ensure that W3C specifications support accessibility.
-   - Provide guidance on accessibility in other specifications and technologies.
 
 4. **Accessibility research**:
    - Encourage effective international research to provide a solid basis for accessibility standards.
