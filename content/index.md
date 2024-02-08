@@ -118,7 +118,7 @@ To focus limited resources on top priorities, W3C WAI staff will focus on the fo
 
 - Support standards harmonization, including WCAG 2.2 and ISO.
 - [W3Cx accessibility courses](https://www.w3.org/WAI/courses/foundations-course/) - revise and update into two courses.
-- [Translations](https://www.w3.org/WAI/translations/) - solicit, support, and promote translations of W3C accessibility resources, with the goal of: [@@ specific targets...]
+- [Translations](https://www.w3.org/WAI/translations/) - solicit, support, and promote translations of W3C accessibility resources<!-- , with the goal of: [@@ specific targets...] -->.
 - Define a plan for better addressing digital accessibility in the Global South.
 - Improve guidance for contributors (group participants and public). Improve under-represented stakeholder engagement along with W3C-wide efforts.
 - Develop better pathways through W3C accessibility information, particularly for people who are new to accessibility.
