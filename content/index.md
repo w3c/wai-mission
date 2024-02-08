@@ -3,7 +3,7 @@ title: "W3C Accessibility Mission, Vision, Objectives"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
-doc-note-message-md: 2023 Work In Progress
+doc-note-message-md: Work In Progress - February 2024
 
 lang: en
 # last_updated: 2020-02-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -21,7 +21,7 @@ ref: /draft/   # Translators, do not change this
 feedbackmail: public-wai-mission@w3.org
 
 footer: >
-   <p><strong>Date:</strong> Updated 7 September 2023. CHANGELOG</p>
+   <p><strong>Date:</strong> Updated 7 February 2024. CHANGELOG</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/staff/#shawn">Shawn Lawton Henry</a>. Contributors: Kevin White, Ruoxi Ran, Daniel Montalvo, Michael Cooper, and many others.</p>
 
 ---
@@ -100,30 +100,33 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Provide guidance on accessibility in other specifications and technologies.
 
 2. **International accessibility standards:**
-   - Facilitate international multi-stakeholder development so the standards can be adopted and implemented internationally. _-- see [Standards harmonization internationally (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/16)_
+   - Facilitate international multi-stakeholder development and communication so the standards can be adopted and implemented internationally.
    - Develop technical specifications to support accessibility, such as [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) and accessibility API mappings.
-   - Develop accessibility guidelines/standards for relevant tools and content.
-      - _? open question: scope of web, digital -- see [Scope of W3C web, digital accessibility work (GitHub discussion)](https://github.com/w3c/wai-mission/discussions/4),  [mobile apps](https://github.com/w3c/wai-mission/discussions/7)_
-      - _? open questions: mobile apps, user agents, authoring tools, EPUB, other? (see Discussions in GitHub on [mobile apps](https://github.com/w3c/wai-mission/discussions/7),  [browsers](https://github.com/w3c/wai-mission/discussions/5),  [authoring tools](https://github.com/w3c/wai-mission/discussions/6))_
+   - Develop accessibility standards/guidelines for relevant tools and content.
    - Provide guidance beyond what can be included in these standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
-
+   
 3. **Support understanding, adopting, and implementing accessibility:**
    - Facilitate and promote translations of W3C accessibility standards and supporting resources.
-   - Provide documentation on understanding and implementing accessibility standards<!-- (e.g., [WCAG Techniques](https://www.w3.org/WAI/WCAG22/Techniques/about), [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/), [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/), [Tutorials](https://www.w3.org/WAI/tutorials/)) -->.
+   - Provide documentation on understanding and implementing accessibility standards.
    - Provide awareness and education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/).
-<!--   - Maintain updated [Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/) / Introduction to Web Accessibility course. -->
 
 4. **Accessibility research**:
    - Encourage effective international research to provide a solid basis for accessibility standards.
-<!--   - Analyze research findings to inform accessibility standards (for example, [Digital Accessibility User Requirements](https://www.w3.org/WAI/research/user-requirements/)). -->
    - Conduct horizon scanning.
 
-## 2024 Priorities and Specific Objectives
+## [draft] 2024 Priorities and Specific Objectives
 
-To focus limited resources on top priorities, we will address the following objectives in 2024:
+To focus limited resources on top priorities, W3C WAI staff will focus on the following objectives in 2024, in addition to supporting standards development, key Working Group deliverables, and internal W3C projects.
 
-_**Editors' Note:** A much more specific set of objectives be developed after high-level objectives and priorities are further refined, including from input on **[Discussion topics (GitHub)](https://github.com/w3c/wai-mission/discussions)**. …_
+- Support standards harmonization, including WCAG 2.2 and ISO.
+- [W3Cx accessibility courses](https://www.w3.org/WAI/courses/foundations-course/) - revise and update into two courses.
+- [Translations](https://www.w3.org/WAI/translations/) - solicit, support, and promote translations of W3C accessibility resources, with the goal of: [@@ specific targets...]
+- Define a plan for better addressing digital accessibility in the Global South.
+- Improve guidance for contributors (group participants and public). Improve under-represented stakeholder engagement along with W3C-wide efforts.
+- Develop better pathways through W3C accessibility information, particularly for people who are new to accessibility.
+- Provide updated guidance on mobile accessibility, including consideration of important issues in the Global South.
 
+_[draft note: will make these more specific, measurable, achievable, relevant, and time-bound (SMART)]_
 
 ## Your Input
 
