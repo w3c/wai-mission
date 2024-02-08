@@ -91,8 +91,6 @@ The W3C vision is that the Web and related technologies are accessible so that p
 
 ## High-Level Objectives
 
-_**Editors' Note:** Links to GitHub Discussions are temporary and won't be in the final version of this page._
-
 To contribute to realizing the vision, W3C addresses the following areas:
 
 1. **Specifications, standards, and technologies support accessibility:**
