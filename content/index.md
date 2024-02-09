@@ -3,7 +3,6 @@ title: "W3C Accessibility Mission, Vision, Objectives"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
 doc-note-type: draft
-doc-note-message-md: Work In Progress - February 2024
 
 lang: en
 # last_updated: 2020-02-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -112,7 +111,7 @@ To contribute to realizing the vision, W3C addresses the following areas:
    - Encourage effective international research to provide a solid basis for accessibility standards.
    - Conduct horizon scanning.
 
-## [draft] 2024 Priorities and Specific Objectives
+## 2024 Priorities and Specific Objectives
 
 To focus limited resources on top priorities, W3C WAI staff will focus on the following objectives in 2024, in addition to supporting standards development, key Working Group deliverables, and internal W3C projects.
 
@@ -123,8 +122,6 @@ To focus limited resources on top priorities, W3C WAI staff will focus on the fo
 - Improve guidance for contributors (group participants and public). Improve under-represented stakeholder engagement along with W3C-wide efforts.
 - Develop better pathways through W3C accessibility information, particularly for people who are new to accessibility.
 - Provide updated guidance on mobile accessibility, including consideration of important issues in the Global South.
-
-_[draft note: will make these more specific, measurable, achievable, relevant, and time-bound (SMART)]_
 
 ## Your Input
 
