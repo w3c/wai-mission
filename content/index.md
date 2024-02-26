@@ -113,6 +113,8 @@ To contribute to realizing the vision, W3C addresses the following areas:
 
 ## 2024 Priorities and Specific Objectives
 
+W3C Working Groups will continue work to meet the high-level objectives.
+
 To focus limited resources on top priorities, W3C WAI staff will focus on the following objectives in 2024, in addition to supporting standards development, key Working Group deliverables, and internal W3C projects.
 
 - Support standards harmonization, including WCAG 2.2 and ISO.
