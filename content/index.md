@@ -61,6 +61,8 @@ The purposes for developing this include:
 
 W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities.
 
+See [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) and [WAI Resources](https://www.w3.org/WAI/resources/).
+
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
 <div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
@@ -81,7 +83,7 @@ W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and sup
 
 ## Vision
 
-The W3C vision is that the Web and related technologies are accessible so that people with disabilities around the globe can **participate equally** in the digital world. That includes:
+The W3C vision is that the Web and related technologies are accessible so that all people with disabilities around the globe can **participate equally** in the digital world. That includes:
 * Accessibility standards/guidelines are harmonized globally.
 * All technical standards and specifications support accessibility.
 * Tools that create and deliver digital content support accessibility.
