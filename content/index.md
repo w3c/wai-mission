@@ -46,72 +46,20 @@ footer: >
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction
+## Background
 
-This information extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
-
-Background: W3C re-launched as a public-interest non-profit organization in 2023 with accessibility as a clear priority in W3C's mission. [[press release](https://www.w3.org/press-releases/2023/w3c-le-launched/)] Accessibility is woven throughout the fabric of W3C and we will continue with the Web Accessibility Initiative (WAI) focus.
+W3C re-launched as a public-interest non-profit organization in 2023 with accessibility as a clear priority in W3C's mission. [[press release](https://www.w3.org/press-releases/2023/w3c-le-launched/)] Accessibility is woven throughout the fabric of W3C and we will continue with the Web Accessibility Initiative (WAI) focus.
 
 The purposes for developing this include:
 * Define and document W3C's commitment to accessibility.
 * Encourage W3C Members, potential contributors, and others to support accessibility work through W3C.
 * Direct limited staff (chair, facilitator, participant, contributor) resources to agreed-upon priorities.
 
-## Mission
+## Mission, Vision, Objectives
 
-W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities.
+Mission, vision, and high-level objectives moved to [About W3C WAI](/about/)
 
-See [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) and [WAI Resources](https://www.w3.org/WAI/resources/).
-
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
-<div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/two-smiling.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/older-user-laptop.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/sip-puff.png"  alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/hearing-aid.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/low-vision-pizza.png" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/mobile-outside.png" alt="" />
-</div>
-<div style="float:right; margin-left:1em; width:77px; clear:both;"><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/ear.svg" alt="" /><br><br> 
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/eye.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/brain.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/hand.svg" alt="" /><br><br>
-<img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
-</div>
-
-## Vision
-
-The W3C vision is that the Web and related technologies are accessible so that all people with disabilities around the globe can **participate equally** in the digital world. That includes:
-* Accessibility standards/guidelines are harmonized globally.
-* All technical standards and specifications support accessibility.
-* Tools that create and deliver digital content support accessibility.
-* Everyone who creates or manages digital products has relevant accessibility knowledge.
-* New technologies, digital products, and content addresses accessibility from inception (“born accessible”).
-
-## High-Level Objectives
-
-To contribute to realizing the vision, W3C addresses the following areas:
-
-1. **Specifications, standards, and technologies support accessibility:**
-   - Ensure that W3C specifications support accessibility.
-   - Provide guidance on accessibility in other specifications and technologies.
-
-2. **International accessibility standards:**
-   - Facilitate international multi-stakeholder development and communication so the standards can be adopted and implemented internationally.
-   - Develop technical specifications to support accessibility, such as [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) and accessibility API mappings.
-   - Develop accessibility standards/guidelines for relevant tools and content.
-   - Provide guidance beyond what can be included in these standards, such as [WCAG Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/about/).
-   
-3. **Support understanding, adopting, and implementing accessibility:**
-   - Facilitate and promote translations of W3C accessibility standards and supporting resources.
-   - Provide documentation on understanding and implementing accessibility standards.
-   - Provide awareness and education resources, such as many listed in [WAI Resources](https://www.w3.org/WAI/resources/).
-
-4. **Accessibility research**:
-   - Encourage effective international research to provide a solid basis for accessibility standards.
-   - Conduct horizon scanning.
+2024 Priorities and Specific Objectives move to @@
 
 ## 2024 Priorities and Specific Objectives
 
