@@ -20,7 +20,7 @@ ref: /draft/   # Translators, do not change this
 feedbackmail: public-wai-mission@w3.org
 
 footer: >
-   <p><strong>Date:</strong> Updated 7 February 2024. CHANGELOG</p>
+   <p><strong>Date:</strong> Updated 13 March 2024.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/staff/#shawn">Shawn Lawton Henry</a>. Contributors: Kevin White, Ruoxi Ran, Daniel Montalvo, Michael Cooper, and many others.</p>
 
 ---
@@ -57,7 +57,7 @@ The purposes for developing this include:
 
 ## Mission, Vision, Objectives
 
-Mission, vision, and high-level objectives moved to [About W3C WAI](/about/
+Mission, vision, and high-level objectives moved to [About W3C WAI](/about/)
 
 ## 2024 Priorities and Specific Objectives
 
