@@ -57,23 +57,11 @@ The purposes for developing this include:
 
 ## Mission, Vision, Objectives
 
-Mission, vision, and high-level objectives moved to [About W3C WAI](/about/)
-
-2024 Priorities and Specific Objectives move to @@
+Mission, vision, and high-level objectives moved to [About W3C WAI](/about/
 
 ## 2024 Priorities and Specific Objectives
 
-W3C Working Groups will continue work to meet the high-level objectives.
-
-To focus limited resources on top priorities, W3C WAI staff will focus on the following objectives in 2024, in addition to supporting standards development, key Working Group deliverables, and internal W3C projects.
-
-- Support standards harmonization, including WCAG 2.2 and ISO.
-- [W3Cx accessibility courses](https://www.w3.org/WAI/courses/foundations-course/) - revise and update into two courses.
-- [Translations](https://www.w3.org/WAI/translations/) - solicit, support, and promote translations of W3C accessibility resources<!-- , with the goal of: [@@ specific targets...] -->.
-- Define a plan for better addressing digital accessibility in the Global South.
-- Improve guidance for contributors (group participants and public). Improve under-represented stakeholder engagement along with W3C-wide efforts.
-- Develop better pathways through W3C accessibility information, particularly for people who are new to accessibility.
-- Provide updated guidance on mobile accessibility, including consideration of important issues in the Global South.
+2024 Priorities and Specific Objectives move to [W3C WAI Objectives 2024](https://wai-mission.netlify.app/2024/)
 
 ## Your Input
 
