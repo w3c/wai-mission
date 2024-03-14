@@ -2,10 +2,7 @@
 title: "W3C Accessibility Mission, Vision, Objectives"
 title_image: https://www.w3.org/WAI/content-images/wai-media-guide/body.svg
 
-doc-note-type: draft
-
 lang: en
-# last_updated: 2020-02-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-mission
@@ -13,15 +10,11 @@ github:
 permalink: /draft/
 
 ref: /draft/   # Translators, do not change this
-# changelog: /@@/changelog/
 
-# description: @@ # NEW: add a 150ish-character-description for social media   # translate the description
-# image: /content-images/wai-@@repo/social.png  # NEW: image for social media
 feedbackmail: public-wai-mission@w3.org
 
 footer: >
    <p><strong>Date:</strong> Updated 13 March 2024.</p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/staff/#shawn">Shawn Lawton Henry</a>. Contributors: Kevin White, Ruoxi Ran, Daniel Montalvo, Michael Cooper, and many others.</p>
 
 ---
 
@@ -57,11 +50,11 @@ The purposes for developing this include:
 
 ## Mission, Vision, Objectives
 
-Mission, vision, and high-level objectives moved to [About W3C WAI](/about/)
+Mission, vision, and high-level objectives moved to [About W3C WAI](https://www.w3.org/WAI/about/).
 
 ## 2024 Priorities and Specific Objectives
 
-2024 Priorities and Specific Objectives move to [W3C WAI Objectives 2024](https://wai-mission.netlify.app/2024/)
+2024 Priorities and Specific Objectives moved to [W3C WAI Objectives 2024](https://wai-mission.netlify.app/2024/).
 
 ## Your Input
 
